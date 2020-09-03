@@ -15,7 +15,6 @@
     <td style='width=55pt'>2000/02/20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>género：</th>
     <td style='width=55pt'>Hembra</td>
-   <th bgcolor=#FDEBDF style='width=300pt;height=300pt'>género：</th>
     <th rowspan="3"><img src="./graph/IMG_3648.jpg"   style='width:300px;height:250px'></th>>
   </tr>
   <tr>
