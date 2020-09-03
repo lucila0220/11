@@ -34,9 +34,6 @@
     <td>1234567</td>
     <th bgcolor=#FDEBDF>Email：</th>
     <td >20201111@edu.com</a></td>
-    %<th bgcolor=#FDEBDF>个人主页：</th>
-    %
-    %<td><a href="http://github.com">个人空间</a></td>
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style='height=25pt'>Ubicación actual：</th>
