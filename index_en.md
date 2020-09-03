@@ -15,7 +15,9 @@
     <td style='width=55pt'>2000-02-20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>姓别：</th>
     <td style='width=40pt'>女</td>
-    <th rowspan="6"><img src="zoukang.jpg"   style='width=180pt;height=130pt'></th>
+    <th rowspan="6"><img src="./graph/IMG_3648.jpg"   style='width=180pt;height=130pt'></th>
+    <th bgcolor=#FDEBDF>好看程度：</th>
+    <td>超级无敌好看</td>
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style=' height=25pt'>身份证：</th>
@@ -24,8 +26,6 @@
     <td>浙江·温州</td>
     <th bgcolor=#FDEBDF>婚姻状况：</th>
     <td>未婚</td>
-    <th bgcolor=#FDEBDF>好看程度：</th>
-    <td>超级无敌好看</td>
    
   </tr>
   <tr>
