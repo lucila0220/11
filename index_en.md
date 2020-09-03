@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>孙海洋</title>
+<title>小吴</title>
 <mate name="keywords" content="个人简历"/>
-<mate name="description" content="孙海洋的个人简历"/>
+<mate name="description" content="吴雪珺的个人简历"/>
 </head>
 <body>
 <table  border=5  bordercolor=red align=center>
@@ -20,11 +20,11 @@
 ><font size=5><a
 
 href=http://user.qzone.qq.com/504660181/infocenter#home>孙海洋</td>
-<td width=110 align=center
+<td width=90 align=center
 ><font size=5>性别：</td>
-<td width=150 align=center
+<td width=120 align=center
 ><font size=5>男</td>
-<td width=200 colspan=2 rowspan=4><img
+<td width=180 colspan=2 rowspan=4><img
 
 src="http://b264.photo.store.qq.com/psb?/1e607185-b189-4edb-a6a9-
 
