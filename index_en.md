@@ -74,9 +74,6 @@
 
   </tr>
   <tr>
-    <th colspan="7" bgcolor="#FF6633"style='width=520pt;text-align:center;line-height:25pt;color:#CC0000'><font size="+3">教育背景</font></th>
-  </tr>
-  <tr>
     <th style='height=25pt' bgcolor=#FDEBDF>教育经历：</th>
     <td colspan="6"><p>
       <pre>
@@ -94,9 +91,7 @@
  《基础西班牙语》。。。。。等
    
   </tr>
-   <tr>
-    <th colspan="7"  bgcolor="#FF6633" style='width=520pt;text-align:center;line-height:25pt;color:#CC0000'><font size="+3">社会实践</font></th>
-  </tr>
+
   <tr>
     <th style='height=25pt' bgcolor=#FDEBDF>社会实践经历：</th>
     <td colspan="6">
@@ -127,7 +122,7 @@
     <td>
   </tr>
   <tr>
-    <th  bgcolor="#FF6633" colspan="7" style='width=520pt;text-align:center;line-height:25pt;color:#CC0000'><font size="+3">研究方向</font></th>
+    <th style='height=25pt' bgcolor=#FDEBDF>研究方向</th>
   </tr>
 
   </tr>
