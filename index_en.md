@@ -9,7 +9,7 @@
 <table cellspacing="0.9" border="1" align=center style='font-size:10.0pt'box="3">
   <th bgcolor="#99CC33" colspan="7" style='width=520pt;text-align:center;line-height:35pt;color:#CC0000' align="center"><font size="+4"><i><big>吴雪珺的个人简历</big></i></font></th>
   <tr>
-    <th bgcolor=#FDEBDF style='width=55pt;height=25pt'>姓名：</th>
+    <th bgcolor=#FDEBDF style='width=55pt;height=30pt'>姓名：</th>
     <td style='width=55pt'>吴雪珺</td>
     <th bgcolor=#FDEBDF style='width=50pt'>出生日期:</th>
     <td style='width=55pt'>2000-02-20</td>
