@@ -15,7 +15,7 @@
     <td style='width=55pt'>2000/02/20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>género：</th>
     <td style='width=55pt'>Hembra</td>
-    <th rowspan="2"><img src="./graph/IMG_3648.jpg"   style='width=10pt;height=30pt'></th>>
+    <th rowspan="2"><img src="./graph/IMG_3648.jpg"   style='width=80pt;height=50pt'></th>>
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style=' height=20pt'>tarjeta de identificación：</th>
