@@ -24,10 +24,7 @@
     <td>浙江·温州</td>
     <th bgcolor=#FDEBDF>婚姻状况：</th>
     <td>未婚</td>
-       <th bgcolor=#FDEBDF>好看程度：</th>
-    <td>超级无敌好看</td>
-       <th bgcolor=#FDEBDF>好看程度：</th>
-    <td>超级无敌好看</td>
+
    
   </tr>
   <tr>
