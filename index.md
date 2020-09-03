@@ -20,6 +20,7 @@
 #### 荣誉奖励:超级无敌可爱美少女奖
 ### 
 
-<a href="/index_Español.html">西班牙语版</a>
+[链接描述](url)
+[西语版](index_Español.md)
 
 
