@@ -46,7 +46,6 @@
     <th bgcolor=#FDEBDF>毕业时间：</th>
     <td>2022年</td>
   </tr>
-  <tr> </tr>
 
   <tr>
     <th bgcolor=#FDEBDF>专业实践经历</th>
@@ -71,9 +70,6 @@
    
 2020 超级无敌可爱美少女奖
 2021 ？？？
-
-      </pre>
-        <p></p>
   </tr>
   <tr>
     <th colspan="7" bgcolor="#FF6633"style='width=520pt;text-align:center;line-height:25pt;color:#CC0000'><font size="+3">教育背景</font></th>
