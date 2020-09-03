@@ -15,7 +15,7 @@
     <td style='width=55pt'>2000-02-20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>姓别：</th>
     <td style='width=40pt'>女</td>
-    <th rowspan="6"><img src="./graph/IMG_3648.jpg"   style='width=50pt;height=30pt'></th>>
+    <th rowspan="3"><img src="./graph/IMG_3648.jpg"   style='width=50pt;height=30pt'></th>>
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style=' height=25pt'>身份证：</th>
