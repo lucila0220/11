@@ -69,7 +69,7 @@
       <pre>
    
 2020 超级无敌可爱美少女奖
-2021 ？？？
+
   </tr>
   <tr>
     <th colspan="7" bgcolor="#FF6633"style='width=520pt;text-align:center;line-height:25pt;color:#CC0000'><font size="+3">教育背景</font></th>
@@ -91,7 +91,6 @@
  
  《基础西班牙语》。。。。。等
    
-    </td>
   </tr>
    <tr>
     <th colspan="7"  bgcolor="#FF6633" style='width=520pt;text-align:center;line-height:25pt;color:#CC0000'><font size="+3">社会实践</font></th>
