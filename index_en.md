@@ -28,14 +28,12 @@
    
   </tr>
   <tr>
-    <th bgcolor=#FDEBDF>身高：</th>
+     <th bgcolor=#FDEBDF>身高：</th>
     <td>170cm</td>
-  </tr>
-  <tr>
     <th bgcolor=#FDEBDF style='height=25pt'>联系电话：</th>
     <td>1234567</td>
     <th bgcolor=#FDEBDF>电子邮箱：</th>
-    <td ><a href="mailto:zoukang521@sina.com?subject=招聘企业信件">20201111@edu.com</a></td>
+    <td >20201111@edu.com</a></td>
     <th bgcolor=#FDEBDF>个人主页：</th>
     <
     <td><a href="http://github.com">个人空间</a></td>
