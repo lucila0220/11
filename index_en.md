@@ -1,11 +1,10 @@
 <html>
  <meta http-equiv="Content-Type" content="text/html; charset=GBK" />
 <head>
-<title>吴雪珺的个人简历</title>
 </head>
 
 <body bgcolor="#CCFFCC" lang=ZH-CN link=blue vlink=blue style='tab-interval:21.0pt'topmargin=4>
-<center><h1>吴雪珺的个人简历(网页版)</h1></center>
+<center><h1>个人简历</h1></center>
 <hr size=6 color=orange width=60% align="center">
 <table cellspacing="0.9" border="1" align=center style='font-size:10.0pt'box="3">
   <th bgcolor="#99CC33" colspan="7" style='width=520pt;text-align:center;line-height:35pt;color:#CC0000' align="center"><font size="+4"><i><big>吴雪珺的个人简历</big></i></font></th>
