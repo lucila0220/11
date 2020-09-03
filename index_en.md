@@ -4,47 +4,47 @@
 </head>
 
 <body bgcolor="#CCFFCC" lang=ZH-CN link=blue vlink=blue style='tab-interval:21.0pt'topmargin=4>
-<center><h1>个人简历</h1></center>
+<center><h1>currículum</h1></center>
 <hr size=6 color=orange width=60% align="center">
 <table cellspacing="0.9" border="1" align=center style='font-size:10.0pt'box="3">
-  <th bgcolor="#99CC33" colspan="7" style='width=520pt;text-align:center;line-height:35pt;color:#CC0000' align="center"><font size="+4"><i><big>吴雪珺的个人简历</big></i></font></th>
+  <th bgcolor="#99CC33" colspan="7" style='width=520pt;text-align:center;line-height:35pt;color:#CC0000' align="center"><font size="+4"><i><big>currículum</big></i></font></th>
   <tr>
-    <th bgcolor=#FDEBDF style='width=550pt;height=1pt'>姓名：</th>
-    <td style='width=55pt'>吴雪珺</td>
-    <th bgcolor=#FDEBDF style='width=50pt'>出生日期:</th>
-    <td style='width=55pt'>2000-02-20</td>
-    <th bgcolor=#FDEBDF style='width=50pt'>姓别：</th>
-    <td style='width=55pt'>女</td>
+    <th bgcolor=#FDEBDF style='width=550pt;height=1pt'>Nombre：</th>
+    <td style='width=55pt'>Lucila</td>
+    <th bgcolor=#FDEBDF style='width=50pt'>fecha de nacimiento:</th>
+    <td style='width=55pt'>2000/02/20</td>
+    <th bgcolor=#FDEBDF style='width=50pt'>género：</th>
+    <td style='width=55pt'>Hembra</td>
     <th rowspan="2"><img src="./graph/IMG_3648.jpg"   style='width=10pt;height=30pt'></th>>
   </tr>
   <tr>
-    <th bgcolor=#FDEBDF style=' height=20pt'>身份证：</th>
+    <th bgcolor=#FDEBDF style=' height=20pt'>tarjeta de identificación：</th>
     <td>330302200002200826</td>
-    <th bgcolor=#FDEBDF>户口：</th>
-    <td>浙江·温州</td>
-    <th bgcolor=#FDEBDF>婚姻状况：</th>
-    <td>未婚</td>
+    <th bgcolor=#FDEBDF>Domicilio：</th>
+    <td>Wenzhou, Zhejiang</td>
+    <th bgcolor=#FDEBDF>estado civil：</th>
+    <td>soltero</td>
 
    
   </tr>
   <tr>
-     <th bgcolor=#FDEBDF>身高：</th>
+     <th bgcolor=#FDEBDF>altura：</th>
     <td>170cm</td>
-    <th bgcolor=#FDEBDF style='height=25pt'>联系电话：</th>
+    <th bgcolor=#FDEBDF style='height=25pt'>Información del contacto：</th>
     <td>1234567</td>
-    <th bgcolor=#FDEBDF>电子邮箱：</th>
+    <th bgcolor=#FDEBDF>Email：</th>
     <td >20201111@edu.com</a></td>
-    <th bgcolor=#FDEBDF>个人主页：</th>
-    <
-    <td><a href="http://github.com">个人空间</a></td>
+    %<th bgcolor=#FDEBDF>个人主页：</th>
+    %
+    %<td><a href="http://github.com">个人空间</a></td>
   </tr>
   <tr>
-    <th bgcolor=#FDEBDF style='height=25pt'>目前所在地：</th>
-    <td >湖南省湘潭市</td>
-    <th bgcolor=#FDEBDF style='height=25pt'>通讯地址：</th>
-    <td>浙江省温州市（325000）</td>
-    <th bgcolor=#FDEBDF>毕业时间：</th>
-    <td>2022年</td>
+    <th bgcolor=#FDEBDF style='height=25pt'>Ubicación actual：</th>
+    <td >Xiantan, Hunan</td>
+    <th bgcolor=#FDEBDF style='height=25pt'>Dirección de envio：</th>
+    <td>Wenzhou, Zhejiang（325000）</td>
+    <th bgcolor=#FDEBDF>tiempo de graduacion：</th>
+    <td>2022</td>
   </tr>
 
   <tr>
