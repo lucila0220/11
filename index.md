@@ -21,6 +21,6 @@
 ### 
 
 [链接描述](url)
-[西语版](./index_Español.md)
+[西语版](./index_en.md)
 
 
