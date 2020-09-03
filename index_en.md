@@ -14,7 +14,7 @@
     <th bgcolor=#FDEBDF style='width=50pt'>出生日期:</th>
     <td style='width=55pt'>2000-02-20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>姓别：</th>
-    <td style='width=40pt'>女</td>
+    <td style='width=55pt'>女</td>
     <th rowspan="2"><img src="./graph/IMG_3648.jpg"   style='width=10pt;height=30pt'></th>>
   </tr>
   <tr>
