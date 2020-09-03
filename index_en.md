@@ -42,7 +42,7 @@
     <th bgcolor=#FDEBDF style='height=25pt'>目前所在地：</th>
     <td >湖南省湘潭市</td>
     <th bgcolor=#FDEBDF style='height=25pt'>通讯地址：</th>
-    <td>浙江省温州市（410000）</td>
+    <td>浙江省温州市（325000）</td>
     <th bgcolor=#FDEBDF>毕业时间：</th>
     <td>2022年</td>
   </tr>
