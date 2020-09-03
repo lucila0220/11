@@ -15,9 +15,7 @@
     <td style='width=55pt'>2000-02-20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>姓别：</th>
     <td style='width=40pt'>女</td>
-    <th rowspan="6"><img src="./graph/IMG_3648.jpg"   style='width=180pt;height=130pt'></th>
-    <th bgcolor=#FDEBDF>好看程度：</th>
-    <td>超级无敌好看</td>
+    <th rowspan="6"><img src="./graph/IMG_3648.jpg"   style='width=180pt;height=130pt'></th>>
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style=' height=25pt'>身份证：</th>
@@ -26,6 +24,10 @@
     <td>浙江·温州</td>
     <th bgcolor=#FDEBDF>婚姻状况：</th>
     <td>未婚</td>
+       <th bgcolor=#FDEBDF>好看程度：</th>
+    <td>超级无敌好看</td>
+       <th bgcolor=#FDEBDF>好看程度：</th>
+    <td>超级无敌好看</td>
    
   </tr>
   <tr>
@@ -39,7 +41,7 @@
     <td ><a href="mailto:zoukang521@sina.com?subject=招聘企业信件">20201111@edu.com</a></td>
     <th bgcolor=#FDEBDF>个人主页：</th>
     <
-    <td><a href="http://github.com">个人blog</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://github.com">个人空间</a></td>
+    <td><a href="http://github.com">个人空间</a></td>
   </tr>
   <tr>
     <th bgcolor=#FDEBDF style='height=25pt'>目前所在地：</th>
