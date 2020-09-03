@@ -14,7 +14,7 @@
     <th bgcolor=#FDEBDF style='width=50pt'>fecha de nacimiento:</th>
     <td style='width=55pt'>2000/02/20</td>
     <th bgcolor=#FDEBDF style='width=50pt'>género：</th>
-    <td style='width=100pt'>Hembra</td>
+    <td style='width=100pt;height=20pt'>Hembra</td>
     <th rowspan="6"><img src="./graph/IMG_3648.jpg"   style='width=80pt;height=50pt'></th>>
   </tr>
   <tr>
