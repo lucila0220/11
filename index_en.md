@@ -18,7 +18,7 @@
     <th rowspan="2"><img src="./graph/IMG_3648.jpg"   style='width=10pt;height=30pt'></th>>
   </tr>
   <tr>
-    <th bgcolor=#FDEBDF style=' height=25pt'>身份证：</th>
+    <th bgcolor=#FDEBDF style=' height=40pt'>身份证：</th>
     <td>330302200002200826</td>
     <th bgcolor=#FDEBDF>户口：</th>
     <td>浙江·温州</td>
